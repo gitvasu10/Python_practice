@@ -1,0 +1,1 @@
+While pushing into the main branch forecfully, it overwrites the remote repo and replaces all the contents by the contents of the local repo.
